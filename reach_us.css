@@ -1,0 +1,98 @@
+ body{
+        background-image:url("download.jpg") ;
+        background-repeat:no-repeat ;
+        background-size: 100%;
+    }
+
+    h1{
+        color: white;
+        text-align: center;
+        word-spacing: 2px;
+    }
+
+    .box{
+       display: block;
+      position: absolute;
+      border-radius: 30px;
+      border:2px solid red;
+      width: 500px;
+      height: 500px;
+      left:500px;
+      text-align: center;
+      font-size: 25px;
+     background-image: url("Images.jpg");
+     background-repeat: no-repeat;
+     background-size: 100%;
+     color: black;
+     list-style-type: none;
+     overflow: hidden;
+      bottom:5%;
+     justify-content:center;
+   }  
+   
+   input {
+  width: 40%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top:30px;
+}
+
+.btn1{
+  display:block;
+  text-align: center;
+  border:2px;
+  border-radius: 2px solid black;
+   border-style: inherit;
+   background-color: grey;
+   height: 40px;
+   width: 200px;
+   font-size: 23px;
+   margin-top: 120px;
+   margin-left:150px;
+}
+
+.btn2{
+  display:block;
+  text-align: center;
+  border:2px;
+  border-radius: 2px solid black;
+   border-style: inherit;
+   background-color: grey;
+   height: 40px;
+   width: 200px;
+   font-size: 23px;
+   margin-top: 30px;
+   margin-left:150px;
+}
+
+.btn3{
+  display:block;
+  text-align: center;
+  border:2px;
+  border-radius: 2px solid black;
+   border-style: inherit;
+   background-color: grey;
+   height: 40px;
+   width: 200px;
+   font-size: 23px;
+   margin-top: 10px;
+   margin-left:150px;
+}
+
+.btn4{
+  display:block;
+  text-align: center;
+  border:2px;
+  border-radius: 2px solid black;
+   border-style: inherit;
+   background-color: grey;
+   height: 40px;
+   width: 200px;
+   font-size: 23px;
+   margin-top: 20px;
+   margin-left:150px;
+}
+
+

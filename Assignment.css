@@ -1,0 +1,124 @@
+ body{
+        color:white;
+        font-size: 20px;
+        font-family: Georgia, 'Times New Roman', Times, serif
+    }
+
+.header{
+       background-color: black;
+       display: inline-block;
+       block-size: 90px;
+       width: 100%;
+       height:150px;
+    }
+
+
+
+    .a{
+                display:inline-block;
+                color: white;
+                background-color: greenyellow;
+                border: 2px;
+              text-align:center;
+              padding-bottom: 5px;
+              margin-top: 4px;
+              border-radius: 3px solid rgb(146, 78, 78);
+              transition: 0.6s ease;
+               
+}
+
+a:hover{
+    background-color: white;
+    color: green;
+
+}
+
+ .content{
+        
+       background-color: rgb(77, 90, 77);
+       height: 75%;
+       width: 100%;
+       display:inline-block;
+       }
+
+    
+   .box{
+       display: inline-block;
+      position: absolute;
+      border-radius: 30px;
+      border:2px solid red;
+      width: 350px;
+      height: 350px;
+      left: 950px;
+      word-spacing: 2px;
+      text-align: center;
+      font-size: 25px;
+     background-image: url("Images.jpg");
+     background-repeat: no-repeat;
+     background-size: 100%;
+     color: black;
+     list-style-type: none;
+     overflow: hidden;
+      bottom:5%;
+     justify-content:center;
+   }    
+  
+   .button{
+        cursor: pointer;
+        display:inline-block;
+       text-align: center;
+       border:2px;
+  border-radius: 2px solid green;
+   border-style: inherit;
+   background-color: rgb(231, 73, 165);
+   height: 30px;
+   width: 170px;
+   font-size: 23px;
+   float: right;
+   margin-top:5px;
+   margin-left: 4px;
+    position: center;
+    }
+
+    .footer{
+        background-color:black ;
+        display: inline-block;
+        width: 100%;
+       }
+
+ .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+      
+.logo{
+      text-align:center;
+      }
+
+      p{
+          text-align: right;
+      }

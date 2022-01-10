@@ -1,0 +1,54 @@
+  body{
+        background-image:url("download.jpg") ;
+        background-repeat:no-repeat ;
+        background-size: 100%;
+    }
+
+    h1{
+        color: white;
+        text-align: center;
+        word-spacing: 2px;
+    }
+
+    .box{
+       display: block;
+      position: relative;
+      border-radius: 30px;
+      border:2px solid transperent;
+      width: 500px;
+      height: 250px;
+      left:500px;
+      text-align: center;
+      font-size: 25px;
+     background-image: url("Images.jpg");
+     background-repeat: no-repeat;
+     background-size: 100%;
+     color: black;
+     overflow: hidden;
+      bottom:5%;
+     justify-content:center;
+font-weight: bolder;
+   }  
+   
+   input {
+  width: 40%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top:30px;
+}
+
+.btn{
+  display:block;
+  text-align: center;
+  border:2px;
+  border-radius: 2px solid black;
+   border-style: inherit;
+   background-color: limegreen;
+   height: 40px;
+   width: 100px;
+   font-size: 23px;
+   margin-top: 3px;
+   margin-left:200px;
+}
